@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33078609808",
+    "project_id": "practica11-2753e",
+    "storage_bucket": "practica11-2753e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33078609808:android:72d81b1800105247919515",
+        "android_client_info": {
+          "package_name": "mx.itson.edu.practica11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-jLQlQ33I814PR6LJfcPwcsROmr22go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
